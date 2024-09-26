@@ -13,4 +13,4 @@
 <a href="https://www.credly.com/badges/19ace287-2f73-4c72-b57f-473a811a1f55/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt='AWS Certified SysOps Administrator – Associate' width="80px"></a>
 
 #### Lulz
-<a href="https://tryhackme.com/badge/168080" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/U53r23.png" alt="TryHackMe" width="200px"></a>
+<a href="https://tryhackme.com/badge/168080" target="https://tryhackme.com/badge/168080"><img src="https://tryhackme-badges.s3.amazonaws.com/U53r23.png" alt="TryHackMe" width="200px"></a>
