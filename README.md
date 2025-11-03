@@ -8,7 +8,7 @@
 
 #### Certifications
 
-<a href="https://www.credly.com/badges/6651520f-fb96-40be-bfa4-a8841059248e" target="_blank"><img src="[https://images.credly.com/size/220x220/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob.png" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
+<a href="https://www.credly.com/badges/6651520f-fb96-40be-bfa4-a8841059248e" target="_blank"><img src="https://images.credly.com/size/220x220/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob.png" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
 <a href="https://www.credly.com/badges/264b1fb4-6918-4cd3-b748-1a8ad15e9bf1/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt='AWS Certified Solutions Architect – Associate' width="80px"></a>
 <a href="https://www.credly.com/badges/19ace287-2f73-4c72-b57f-473a811a1f55/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt='AWS Certified SysOps Administrator – Associate' width="80px"></a>
 
